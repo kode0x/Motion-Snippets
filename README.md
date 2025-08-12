@@ -1,7 +1,3 @@
-Here's A **readme** Template For Your Github Project **"Motion-snippets"**:
-
----
-
 # Motion-snippets
 
 Motion-Snippets Is A Collection of Reusable And Customizable Motion Animations Created Using [framer Motion](Https://www.framer.com/motion/). This Project Provides Various Animation Effects For React Applications That You Can Easily Integrate And Customize In Your Own Projects.
